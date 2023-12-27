@@ -7,4 +7,9 @@ This Mobile shop Website is using PHP and Database(MySQL). In this website you c
 # Admin Page
 <img width="450" alt="image" src="https://github.com/marklee090/mobileshopPHP/assets/149919148/3648d5f5-e14a-449f-bd46-d3ad0c1be6ee">
 
+# Database
+<img width="938" alt="image" src="https://github.com/marklee090/mobileshopPHP/assets/149919148/6941c999-0294-4133-92de-f7c7bc9d6367">
+
+# How to run
+Download database folder and upload these file to your server or you can download an application called XAMPP or other. After, you need to import database.sql to your server/XAMPP first.
 
