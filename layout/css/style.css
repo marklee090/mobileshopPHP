@@ -212,3 +212,72 @@ a:hover {
 .menutrai a:hover {
     color: #000000;
 }
+.bgbanner{
+    float:left;
+    width: 100%;
+    padding: 80px 0px;
+    text-align: center;
+    background-image: url('../images/bgpage.jpg');
+    font-size: 14pt;
+    color: #FFFFFF;
+}
+.col2{
+    width: 20%;
+    float: left;
+}
+.col_25{
+    width: 25%;
+    float: left;
+}
+.col_75{
+    width: 75%;
+    float: right;
+}
+.col8{
+    float: left;
+    width: 80%;
+    text-align: right;
+}
+.col6{
+    float: left;
+    width: 50%;
+}
+.col9{
+    float: left;
+    width: 70%;
+}
+.col3{
+    float: left;
+    width: 30%;
+}
+.menu{
+    height: 40px;
+    line-height: 40px;
+}
+.menu a{
+    margin: 0 20px;
+}
+.logo img{
+    height: 40px !important;
+    width: 100px !important;
+}
+.imgchitiet img{
+    width: 90%;
+}
+hr{
+    margin-bottom: 30px;
+    border-top: 1px #CCC dotted;
+}
+.viewcart table{
+    width: 95%;
+    border-collapse: collapse;
+}
+.viewcart table tr th{
+    background-color: #CCC;
+    
+}
+th,td{
+    padding: 10px;
+    border: 1px #666666 solid;
+    text-align: left;
+}
